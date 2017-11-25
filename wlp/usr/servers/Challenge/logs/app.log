@@ -1,0 +1,2 @@
+2017-10-03 00:19:03.639 [Default Executor-thread-12] INFO  com.ibm.watson.apis.conversation_with_discovery.listener.AppServletContextListener - Deploying ServletContextListener
+2017-10-03 00:19:09.678 [Thread-12] INFO  com.ibm.watson.apis.conversation_with_discovery.listener.SetupThread - Setup Complete
